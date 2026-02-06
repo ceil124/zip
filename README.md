@@ -1,8 +1,8 @@
-# Fork of https://github.com/yeka/zip
+## 说明
 
 This fork add support for Standard Zip Encryption.
 
-The work is based on https://github.com/alexmullins/zip
+The work is Fork of https://github.com/yeka/zip
 
 Available encryption:
 
